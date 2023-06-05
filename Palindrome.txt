@@ -1,0 +1,11 @@
+
+class Solution {
+public:
+    bool isPalindrome(int x) {
+
+       def is_palindrome(x):
+    x_str = str(x)
+    return x_str == x_str[::-1] 
+    }
+};
+
